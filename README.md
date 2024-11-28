@@ -85,7 +85,8 @@ This API provides functionalities for user registration, authentication, and man
 
 ## Entity-relationship diagram (ERD)
 
-![alt text](<Captura de pantalla 2024-11-27 a las 22.11.59.png>)
+![Uploading Captura de pantalla 2024-11-28 a las 14.26.56.png…]()
+
 
 ### 1. Clone the Repository
 ```bash
