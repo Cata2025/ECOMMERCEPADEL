@@ -85,8 +85,6 @@ This API provides functionalities for user registration, authentication, and man
 
 ## Entity-relationship diagram (ERD)
 
-<img width="1128" alt="Captura de pantalla 2024-11-28 a las 14 26 56" src="https://github.com/user-attachments/assets/515f75a7-34eb-4f22-9018-119fb01cc98a">
-
 
 
 ### 1. Clone the Repository
